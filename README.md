@@ -1,6 +1,6 @@
-# Train_hw
-a homework for a train schedule
+# Train Schedule Homework
+-------------------------------
 
-nothing works.
-console.log() anywhere does nothing.
-gave up.
+A train schedule that uploads new trains to a database and updates the page in real-time.
+
+All the destinations should be comically awful.
